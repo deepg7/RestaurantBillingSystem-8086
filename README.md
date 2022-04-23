@@ -31,16 +31,16 @@ The project is based on emu8086, it is completely implemented in assembly langua
 ![alt text](https://raw.githubusercontent.com/deepg7/RestaurantBillingSystem-8086/main/flowchart.svg)
 
 ## Methodolody/Algorithm
-Step 1: Initialise data segment
-Step 2: Assign all the print statements to their     respective variables 
-Step 3: Input the choice of the menu from the user 
-Step 4: Compare the choice and jump to the respective labels 
-Step 5: Input the choice of the dishes from the user
-Step 6: Input the Quantity of the dish from the user
-Step 7: Compare the choice and jump the respective price labels 
-Step 8: Calculate the total bill amount with respect to the quantity 
-Step 9: Now either go back to the main menu or exit 
-Step 10: Stop
+Step 1: Initialise data segment <br />
+Step 2: Assign all the print statements to their respective variables <br />
+Step 3: Input the choice of the menu from the user <br />
+Step 4: Compare the choice and jump to the respective labels <br />
+Step 5: Input the choice of the dishes from the user <br />
+Step 6: Input the Quantity of the dish from the user <br />
+Step 7: Compare the choice and jump the respective price labels <br />
+Step 8: Calculate the total bill amount with respect to the quantity <br />
+Step 9: Now either go back to the main menu or exit <br />
+Step 10: Stop <br />
 
 ## Conclusion and Future Work
 Finally, in the restaurant billing system source code, the outcome of all the time hard work is here. We have a system which takes the necessary choices of the customer according to the various filters like price, category of the food, and popularity. Then he is able to place the order accordingly and then the system calculates all the total of the order with taxes and then it can dispatch the bill that is handed over to the customer. 
