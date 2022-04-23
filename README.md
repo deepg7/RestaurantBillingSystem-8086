@@ -28,7 +28,7 @@ The project is based on emu8086, it is completely implemented in assembly langua
 
 - Flowchart
 
-![alt text](https://raw.githubusercontent.com/deepg7/RestaurantBillingSystem-8086/main/flowchart.svg)
+![alt text](https://raw.githubusercontent.com/deepg7/RestaurantBillingSystem-8086/main/flowchart.png)
 
 ## Methodolody/Algorithm
 Step 1: Initialise data segment <br />
