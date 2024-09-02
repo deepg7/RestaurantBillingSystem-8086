@@ -31,7 +31,7 @@ The project is based on emu8086, it is completely implemented in assembly langua
 ![alt text](https://raw.githubusercontent.com/deepg7/RestaurantBillingSystem-8086/main/flowchart.png)
 
 ## Methodolody/Algorithm
-Step 1: Initialise data segment <br />
+Step 1: Initialise data segment<br />
 Step 2: Assign all the print statements to their respective variables <br />
 Step 3: Input the choice of the menu from the user <br />
 Step 4: Compare the choice and jump to the respective labels <br />
